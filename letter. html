@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>A Little Letter for You 🤍</title>
+
+<style>
+body{
+    margin:0;
+    padding:20px;
+    background:#F8F5F0;
+    font-family:Georgia, serif;
+    text-align:center;
+}
+
+.card{
+    background:#E9DFD2;
+    padding:30px;
+    border-radius:20px;
+    max-width:500px;
+    margin:50px auto;
+    box-shadow:0 10px 20px rgba(0,0,0,.15);
+}
+
+h1{
+    color:#7A5C58;
+}
+
+p{
+    color:#6E5A54;
+    font-size:17px;
+    line-height:1.8;
+    text-align:left;
+}
+
+.signature{
+    text-align:right;
+    color:#7A5C58;
+    margin-top:25px;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="card">
+
+<h1>💌 A Little Letter for You</h1>
+
+<p>
+Dear Shifa,
+</p>
+
+<p>
+Thank you for being yourself, for making our college days more beautiful,
+and for giving us so many memories to look back on.
+</p>
+
+<p>
+I'm grateful for all the moments we've shared and I hope we get to make
+many more memories together.
+</p>
+
+<p>
+May you always have reasons to smile, people who make you feel loved,
+and days that feel a little brighter.
+</p>
+
+<p>
+Keep smiling, keep shining, and always be the wonderful person you are. 🤍
+</p>
+
+</div>
+
+</body>
+</html>
